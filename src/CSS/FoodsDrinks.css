@@ -1,0 +1,14 @@
+body {
+  background: white;
+  border: 10px;
+  display: flex;
+  flex-wrap: wrap;
+  height: 640px;
+  overflow: auto;
+  position: relative;
+  width: 360px;
+}
+
+.ingredients {
+  width: 200px;
+}
